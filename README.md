@@ -1,3 +1,3 @@
 #DEMO
 
-Some description about Github
+Some description about GITHUB
